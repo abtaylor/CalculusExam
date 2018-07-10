@@ -1,0 +1,104 @@
+html{
+   font-family: 'helbvetica neue', helvetica, sans-serif;
+}
+h1{
+  text-align: center;
+  font-weight: bold;
+}
+h2{
+  word-spacing:130px;
+  text-align:center;
+}
+p{
+  text-align:center;
+  word-spacing: 125px;
+  
+}
+n1{
+  font-family: 'helbvetica neue', helvetica, sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-align: center;
+  border: 2px solid #0b5fe5;
+  background: #68a2ff;
+  color: #0b5fe5;
+  box-shadow: 1px 1px 2px rgba(0,0,200,0.4);
+  padding: 3px 40px;
+  display:inline-block;
+  cursor: pointer;  
+}
+s1{
+  font-family: 'helbvetica neue', helvetica, sans-serif;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-align: center;
+  border: 2px solid #0b5fe5;
+  background: #68a2ff;
+  color: #0b5fe5;
+  box-shadow: 1px 1px 2px rgba(0,0,200,0.4);
+  padding: 3px 10px;
+  display:inline-block;
+  cursor: pointer; 
+}
+n2{
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-align: center;
+  border: 2px solid #ff2626;
+  background: #ff9696;
+  color: #ff2626;
+  box-shadow: 1px 1px 2px ;
+  padding: 3px 40px;
+  display:inline-block;
+  cursor: pointer;
+}
+s2{
+   letter-spacing: 1px;
+  text-transform: uppercase;
+  text-align: center;
+  border: 2px solid #ff2626;
+  background: #ff9696;
+  color: #ff2626;
+  box-shadow: 1px 1px 2px ;
+  padding: 3px 10px;
+  display:inline-block;
+  cursor: pointer;
+}
+n3{
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-align: center;
+  border: 2px solid #21af1f;
+  background: #76f274;
+  color: #21af1f;
+  box-shadow: 1px 1px 2px ;
+  padding: 3px 40px;
+  display: inline-block;
+  cursor: pointer;
+}
+s3{
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-align: center;
+  border: 2px solid #21af1f;
+  background: #76f274;
+  color: #21af1f;
+  box-shadow: 1px 1px 2px ;
+  padding: 3px 10px;
+  display: inline-block;
+  cursor: pointer;
+}
+div{
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-align: center;
+  border: 2px solid black;
+  background: white;
+  color: black;
+  box-shadow: 1px 1px 2px ;
+  padding: 3px 20px;
+  display: inline-block;
+  cursor: pointer;
+  margin-left: 270px;
+}
+
